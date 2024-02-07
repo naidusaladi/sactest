@@ -1,0 +1,13 @@
+.thankyouContainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.tick{
+    height: 120px;
+    width: 120px;
+    color:green;
+}
